@@ -15,5 +15,8 @@ public class FragmentB  extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_b, container, false);
+
+        // CHANGES
+        // changes in b yazalame
     }
 }
