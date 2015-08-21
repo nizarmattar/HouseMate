@@ -14,7 +14,7 @@ public class FragmentA  extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-
+//tfadak
 
         // Inflate the layout for this fragment
 
