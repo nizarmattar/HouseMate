@@ -19,6 +19,7 @@ public class FragmentA  extends Fragment {
         // Inflate the layout for this fragment
 
             // nizar!
+        //george!!!!
         // changes changet changez
         //ya zalame fuck you
         return inflater.inflate(R.layout.fragment_a, container, false);
