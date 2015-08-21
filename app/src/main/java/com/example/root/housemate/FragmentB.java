@@ -16,6 +16,7 @@ public class FragmentB  extends Fragment {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_b, container, false);
 // update
+        //upasdsadasdsad
         // CHANGES
         // changes in b yazalame
     }
