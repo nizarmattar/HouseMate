@@ -14,6 +14,9 @@ public class FragmentA  extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
+
+
+        // changes changet changez
         return inflater.inflate(R.layout.fragment_a, container, false);
     }
 }
