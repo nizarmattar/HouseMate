@@ -17,6 +17,7 @@ public class FragmentA  extends Fragment {
 
 
         // changes changet changez
+        //ya zalame fuck you
         return inflater.inflate(R.layout.fragment_a, container, false);
     }
 }
