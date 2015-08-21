@@ -13,9 +13,12 @@ public class FragmentA  extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+
+
+
         // Inflate the layout for this fragment
 
-
+            // nizar!
         // changes changet changez
         return inflater.inflate(R.layout.fragment_a, container, false);
     }
